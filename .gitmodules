@@ -1,0 +1,9 @@
+[submodule "themes/gohugo-theme-ananke"]
+	path = themes/gohugo-theme-ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/contrast-hugo"]
+	path = themes/contrast-hugo
+	url = https://github.com/niklasbuschmann/contrast-hugo.git
+[submodule "public"]
+	path = public
+	url = https://github.com/dpereira84/hugo-demo
